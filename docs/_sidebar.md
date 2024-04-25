@@ -1,14 +1,21 @@
 - Getting Started
-  - [Set Up](set-up.md)
-  - [Configs](configurations.md)
+  - [Start-Up](start_up.md)
+  - [Statement](statement.md)
+  - [UI Description](ui_description.md)
 - Fundamentals
-  - [CanUse](can-use.md)
-  - [Rotation Part](rotation.md)
-  - [Rotation Info](rotation-info.md)
-  - [Action](action.md)
-  - [Character](character.md)
-  
+  - [Rotation](rotation.md)
+  - [Actions](actions.md)
+  - [Rotations](rotations.md)
+  - [Basic](basic.md)
+  - [UI](ui.md)
+  - [Auto](auto.md)
+  - [Target](target.md)
 - Advanced
-  - [Customization](customization.md)
-  - [Data Maintenance](data-maintenance.md)
+  - [List](list.md)
+  - [Timeline](timeline.md)
+  - [Condition](condition.md)
+  - [Extra](extra.md)
+  - [Debug](debug.md)
 
+- [Q&A](q_a.md)
+- [Rotation Development](RotationDev)
