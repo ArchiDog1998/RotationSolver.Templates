@@ -1,6 +1,6 @@
 # Rotation Solver
 
-Hi, thanks for using Rotation Solver!
+Hi, thank you for using Rotation Solver!
 
 Description
 
@@ -14,3 +14,10 @@ Description
 
 ## Features
 
+- Customize your rotation further then what the rotation developer created by using the Forced Conditions or Disabled conditions that you can set up yourself.
+- Load different rotations made by different people, who knows, maybe one is better for something, another one is better for something else.
+- Set up UI elements in different ways according to what you want to have or your screen or for what purpose you intend to use Rotation solver.
+- Have different ability types being used automatically or manually, maybe you want to heal for yourself or maybe you want to do your rotation and not to be bothered by defensive skill usage for example, you can do that!
+- Try and learn your rotation even manually by having skills being lit up on the skill bar.
+- Test out new classes that you never played at a pretty good level, maybe you like how they feel or to get a party finder spot easier. 
+- Set up abilities being used according to a timeline or according to different triggers like casts or vfx used in combat for more optimization if you want.
