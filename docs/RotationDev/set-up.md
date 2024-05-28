@@ -6,8 +6,6 @@ First you need to install the [Visual Studio](https://visualstudio.microsoft.com
 
 ![.NET desktop development](assets/image-20230122152037534.png)
 
-![Class Designer](assets/image-20230122152134510.png)
-
 ## Project
 
 Now, you need to add an extension for rotation develop. Download the `RotationSolver Templates` from `Manage Extensions`
@@ -32,11 +30,11 @@ Right click the role you want to add. And then add a new item.
 
 ![1680588432784](assets/1680588432784.png)
 
-Find the rotation template called `Simple Rotation`, and named it with `Job Abbreviation`\_`Rotation Name`. In this example, I create a WAR rotation and named with Test. So I call it WAR_Test.
+Find the rotation template called `Simple Rotation`, and named it with `Job Abbreviation`\_`Rotation Name`. In this example, I created a WAR rotation and named it Test. So I call it WAR_Test.
 
 ![Create a rotation](assets/1680588677659.png)
 
-And then, you'll see some thing like this.
+And then, you'll see something like this.
 
 ``` c#
 namespace RotationTest.Tank

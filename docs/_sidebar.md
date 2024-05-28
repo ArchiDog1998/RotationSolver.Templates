@@ -13,9 +13,10 @@
 - Advanced
   - [List](list.md)
   - [Timeline](timeline.md)
+  - [Trigger](trigger.md)
   - [Condition](condition.md)
   - [Extra](extra.md)
   - [Debug](debug.md)
-
+  
 - [Q&A](q_a.md)
 - [Rotation Development](RotationDev)
