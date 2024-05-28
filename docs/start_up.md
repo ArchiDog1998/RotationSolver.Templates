@@ -1,22 +1,35 @@
 # Start Up
 
-Basically how to set up the Rotation Solver.
+## Installation
+Open the Dalamud Plugin installer window using either the /xlplugins command or by clicking the Dalamud Plugins button in the system menu.
 
-## The way to install
+<img src='./start_up1.png'>
 
-<!--Pictures are needed!-->
+Open the Settings window, go to the Experimental tab and add https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json to the list.
 
-- Enter `/xlsettings` in the chat window and go to the `Experimental` tab in the opening window.
-- **Skip below the DevPlugins section to the Custom Plugin Repositories section.**
-- Copy and paste this link into the first free text input field.
-```
-https://raw.githubusercontent.com/ArchiDog1998/DalamudPlugins/main/pluginmaster.json
-```
-- Click on the + button and make sure the check mark beside the new field is set afterward.
-- **Click on the Save icon in the bottom right.**
+<img src='./start_up2.png'>
 
-Following these steps, you should be able to see all contained plugins in the Available Plugins tab in the Dalamud Plugin Installer.
-No plugins will be installed, you have just made them available. You can now select which of these plugins you want to install.
+Don't forget to push the save button!
+
+After doing that you should find Rotation Solver in the initial Plugin installer addon list under all plugins. Just click Install vXXXXX and it's done!
+
+<img src='./start_up3.png'>
+
+After that you should find it under the Installed Plugins list if it installed correctly.
+
+<img src='./start_up4.png'>
+
+## Activation
+
+To activate Rotation Solver is really easy, you just need to bind to macros the basic commands:
+
+/rotation auto
+
+or
+
+/rotation manual
+
+And to stop Rotation solver you need to assign
 
 ## To turn it on
 
