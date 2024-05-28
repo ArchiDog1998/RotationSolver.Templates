@@ -1,6 +1,6 @@
 # CanUse
 
-It is a complex method which used everywhere. In one word, it will check a lot of things.
+It is a complex method that used everywhere. In a word, it will check a lot of things.
 
 Level, Enabled, Action Status, MP, Player Status, Coll down, Combo, Moving (for casting), Charges, Target, etc.
 

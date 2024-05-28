@@ -12,6 +12,6 @@ You can find your hash ID in the debug tab. This is a `little easter egg`.  Peop
 
 Add your Hash ID to this attribute, and you are in!
 
-If you don't want this, remove this file or don't put your hash in.
+If you don't want this, remove this file, or don't put your hash in.
 
 ![Add your hash](assets/1680590541585.png)

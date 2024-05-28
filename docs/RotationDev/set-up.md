@@ -4,35 +4,35 @@
 
 First you need to install the [Visual Studio](https://visualstudio.microsoft.com/). Please Check the `.NET desktop development`  under Workloads, `Class Designer` (optional)under Individual components.
 
-![.NET desktop development](assets/image-20230122152037534.png)
+![.NET desktop development](/assets/image-20230122152037534.png)
 
 ## Project
 
-Now, you need to add an extension for rotation develop. Download the `RotationSolver Templates` from `Manage Extensions`
+Now, you need to add an extension for rotation development. Download the `RotationSolver Templates` from `Manage Extensions`
 
-![Template](assets/1680587392644.png)
+![Template](/assets/1680587392644.png)
 
-Create a new project from the template and name it as what you want.
+Create a new project from the template and name it whatever you want.
 
-![Create Project](assets/1680587583305.png)
+![Create Project](/assets/1680587583305.png)
 
 Update the Packages to the newest one.
 
-![Update Nuget](assets/1680587915851.png)
+![Update Nuget](/assets/1680587915851.png)
 
-Change the DalamudLibPath to your own.
+Change the DalamudLibPath to your own. (sometimes unnecessary)
 
-![Change the Path](assets/1680588115090.png)
+![Change the Path](/assets/1680588115090.png)
 
 ## Rotation
 
-Right click the role you want to add. And then add a new item.
+Right-click the role you want to add. And then add a new item.
 
-![1680588432784](assets/1680588432784.png)
+![1680588432784](/assets/1680588432784.png)
 
-Find the rotation template called `Simple Rotation`, and named it with `Job Abbreviation`\_`Rotation Name`. In this example, I created a WAR rotation and named it Test. So I call it WAR_Test.
+Find the rotation template called `Simple Rotation`. In this example, I created a WAR rotation and named it Test. So I call it WAR_Test.
 
-![Create a rotation](assets/1680588677659.png)
+![Create a rotation](/assets/1680588677659.png)
 
 And then, you'll see something like this.
 
@@ -106,20 +106,22 @@ We will discuss the Action in the future, so let's just do it.
 
 Change the Configuration from `Debug` to `Release` and then build it!
 
-![Change to Release](assets/image-20230404141821517.png)![Build](assets/image-20230404141847740.png)
+![Change to Release](/assets/image-20230404141821517.png)![Build](/assets/image-20230404141847740.png)
 
 You'll see some output things in the Output, please copy the directory of this `dll`.
 
-![Out put](assets/1680589498456.png)
+![Out put](/assets/1680589498456.png)
 
-In the game, add this directory to your [Rotation Dev](extra-rotations.md) folder. After clicking the `Update rotations` button, you'll see your rotation!
+In the game, add this directory to your Rotation Dev folder. After clicking the `Update rotations` button, you'll see your rotation!
 
-## Use your own rotation in Game
+## Use your rotation in the Game
 
-Let's go to the game and select your own rotation.
+Let's go to the game and select your rotation.
+
+<!--The selection image-->
 
 ![1680965887006](assets/1680965887006.png)
 
-When you use `Smart` or `Manual`, the rotation will be like this.
+When you use `Auto` or `Manual`, the rotation will be like this.
 
-![rotations](assets/image-20230408222335027.png)
+![rotations](/assets/image-20230408222335027.png)
