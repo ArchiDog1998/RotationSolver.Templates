@@ -1,12 +1,4 @@
-- Getting Started
-  - [Set Up](/RotationDev/set-up.md)
-  - [Configs](/RotationDev/configurations.md)
-- Fundamentals
-  - [CanUse](/RotationDev/can-use.md)
-  - [Rotation Part](/RotationDev/rotation.md)
-  - [Rotation Info](/RotationDev/rotation-info.md)
-  - [Action](/RotationDev/action.md)
-  - [Character](/RotationDev/character.md)
-- Advanced
-  - [Customization](/RotationDev/customization.md)
+- [Getting Started](/RotationDev/get_start.md)
+- [Fundamentals](/RotationDev/fundamentals.md)
+- [Advanced](/RotationDev/advanced.md)
 
